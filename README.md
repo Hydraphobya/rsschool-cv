@@ -1,2 +1,2 @@
 # rsschool-cv
-https://Hydraphobya.github.io/rsschool-cv/cv
+https://Hydraphobya.github.io/rsschool-cv/
